@@ -21,7 +21,10 @@ This glossary contains definitions and explanations of core concepts introduced 
          * [Comparison and Equality](sections/python.md#comparison-and-equality)
          * [Conditionals](sections/python.md#conditionals)
          * [Input](sections/python.md#input)
-         * [Importing Libraries](sections/python.md#importing-libraries)
+         * [Importing Libraries](sections/python.md#importing-libraries)  
+   * [Ethics](sections/ethics.md)
+      * [Glossary](sections/ethics.md)
+    
 
 -----
 
