@@ -63,7 +63,6 @@ Also check out [other useful commands](other-commands.md)
 
 *the shell* - The part of an operating system that interacts with a human. Technically, anything you do in a graphical interface is also in a shell, but in practice this is just another synonym for the command line.
 
-*cli* - "Command Language Interpreter," this is a super technical term for the command line used to impress everyone around you.
 
 ### Other Terms
 
