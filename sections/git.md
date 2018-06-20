@@ -8,6 +8,8 @@
 
 *GitHub* - GitHub is a proprietary cloud service, like Twitter or Google Docs, that hosts git repositories online. GitHub also provides issue tracking and other collaboration features.
 
+*GitReady* Psych yourself up to write some markdown files.
+
 *markup* - Markup languages allow you to format things, whether they're documents, posters, or websites. HTML is a markup language, as is LaTeX.
 
 *markdown* - Markdown is a specific markup language designed to be readable as code, not just when it's displayed. That makes it fun to write in, at least compared to HTML. Markdown is provides a readable syntax for a subset of HTML, such as headings, lists, and links. These tutorials are written in markdown.
