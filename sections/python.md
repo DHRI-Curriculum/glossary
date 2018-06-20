@@ -2,7 +2,7 @@
 
 ## Python from the Terminal
 
-These Python-related commands can be entered in bash. (That's the prompt with the `$`.) They won't work inside Python. (Python uses the `>>>` prompt.)
+These Python-related commands can be entered in bash, which is the prompt within the command line. (That's the prompt with the `$`.) They won't work inside Python. (Python uses the `>>>` prompt.)
 
 `python --version` - Prints out version information for Python, and will tell you if you're using Anaconda or the default Python. Useful for figuring out if Python has successfully installed on your computer, and whether it's accessible from the command line.
 
