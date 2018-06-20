@@ -20,6 +20,8 @@
 
 `touch <filename>` - Create an empty text file named <filename> in your current directory.
 
+'code <filename>' - if have text editor (such as VS Code) this will open .text file in text editor 
+
 `mkdir <folder name>` - Create a directory named `<folder name>` in the current working directory.
 
 `echo <some text>` - Print out any text you give it. Often used with a redirect to add text to a file.
