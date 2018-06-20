@@ -6,6 +6,8 @@
 
 `ls` - show the files and folders in the working directory. I think of it as standing for "list stuff," but it's probably just short for "list."
 
+- `ls -1` - show the files and folders in a nice vertical column.
+
 `cd` - move to a directory, i.e. `cd Desktop` will move to the "Desktop" folder. Some special cases:
 
 - `cd ..` - go to the directory above
