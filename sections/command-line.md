@@ -78,3 +78,5 @@ Also check out [other useful commands](other-commands.md)
 *Text editor* - A program for creating and editing plain text files. Unlike word processors such as LibreOffice and Word, which create complex documents in the form of archives that include formatting information and other metadata, a plain text editor creates a single file. Programmers tend to use plain text files because computers can work with them easily. Sublime Text, Nano, and VI are examples of text editors.
 
 *path* - A list of folders on your system that are checked for programs to generate the list of commands available on the command line. For example, since the folder `/bin` is typically on the path, putting an executable program in that folder will make it available as a command.
+
+
