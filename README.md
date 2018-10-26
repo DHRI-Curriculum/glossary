@@ -8,10 +8,16 @@ This glossary contains definitions and explanations of core concepts introduced 
       * [Glossary](sections/command-line.md#glossary)
          * [Synonyms for the command line](sections/command-line.md#synonyms-for-the-command-line)
          * [Other Terms](sections/command-line.md#other-terms)
+   * [Databases](sections/databases.md)
+      * [Glossary](sections/databases.md)
    * [Ethics](sections/ethics.md)
       * [Glossary](sections/ethics.md)
+   * [GIS](sections/gis.md)
+      * [Glossary](sections/gis.md)
    * [Git](sections/git.md#git)
       * [Definitions](sections/git.md#definitions)
+   * [Jekyll](sections/jekyll.md)
+      * [Glossary](sections/jekyll.md)
    * [Python](sections/python.md#python)
       * [Python from the Terminal](sections/python.md#python-from-the-terminal)
       * [Python Syntax and Commands](sections/python.md#python-syntax-and-commands)
@@ -24,7 +30,8 @@ This glossary contains definitions and explanations of core concepts introduced 
          * [Conditionals](sections/python.md#conditionals)
          * [Input](sections/python.md#input)
          * [Importing Libraries](sections/python.md#importing-libraries)  
-    
+   * [Text Analysis](sections/text-analysis.md)
+      * [Glossary](sections/text-analysis.md)
 
 -----
 
