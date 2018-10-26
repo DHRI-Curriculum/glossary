@@ -8,6 +8,8 @@ This glossary contains definitions and explanations of core concepts introduced 
       * [Glossary](sections/command-line.md#glossary)
          * [Synonyms for the command line](sections/command-line.md#synonyms-for-the-command-line)
          * [Other Terms](sections/command-line.md#other-terms)
+   * [Ethics](sections/ethics.md)
+      * [Glossary](sections/ethics.md)
    * [Git](sections/git.md#git)
       * [Definitions](sections/git.md#definitions)
    * [Python](sections/python.md#python)
@@ -22,8 +24,6 @@ This glossary contains definitions and explanations of core concepts introduced 
          * [Conditionals](sections/python.md#conditionals)
          * [Input](sections/python.md#input)
          * [Importing Libraries](sections/python.md#importing-libraries)  
-   * [Ethics](sections/ethics.md)
-      * [Glossary](sections/ethics.md)
     
 
 -----
