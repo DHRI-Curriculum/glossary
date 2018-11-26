@@ -4,7 +4,7 @@
 
 Please see below a list of key terms and concepts, provided in alphabetical order, from Javier Otero Peña's [Introduction to Mapping using QGIS workshop](https://github.com/DHRI-Curriculum/mapping).
 
-An *attribute* is a characteristic of a feature (see below). Attributes can contain data of different types: strings (text), numerical values, dates, or booleans.
+An *attribute* is a characteristic of a feature (see below). Attributes can contain data of different types: strings (text), numerical values, dates, or booleans. Each column in the Attribute Table represents a different attribute.
 
 *Feature*: an entity that appears in a layer on a map
 
