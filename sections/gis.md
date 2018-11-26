@@ -14,4 +14,4 @@ An *attribute* is a characteristic of a feature (see below). Attributes can cont
 
 *Raster*: images of a specific location that represent visually continuous data such as temperature and elevation at a given resolution. Higher resolutions mean more precision but also larger file size. Raster layers have no Attribute Table; the values are stored within the image and represented as different hues or colors. Raster images can also be used for reference or aesthetic purposes (e.g. satellite photos).
 
-*Vector*: a scalable point, line or polygon that can be easily created, edited, or deleted using QGIS. Does not have a specific resolution.
+*Vector*: a scalable point, line or polygon that can be easily created, edited, or deleted using GIS. Does not have a specific resolution. In QGIS, vectors are contained in vector layers, that can only contain a single type of vectors. Each vector represents a single feature, although some features may be represented by more than one vector (e.g. the vector of the United States includes the mainland U.S. polygon but also polygons for Alaska and Hawaii).
