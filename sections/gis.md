@@ -6,7 +6,7 @@ Please see below a list of key terms and concepts, provided in alphabetical orde
 
 An *attribute* is a characteristic of a feature (see below). Attributes can contain data of different types: strings (text), numerical values, dates, or booleans. Each column in the Attribute Table represents a different attribute.
 
-*Feature*: an entity that appears in a layer on a map
+*Feature*: an element that appears in a layer and typically has attributes. Each row in the Attribute Table represents a different feature. Each feature can be represented on a map by one (or more) vectors, be it points, lines or polygons.
 
 *Georeferencing*: the process of using geographic data to represent features on a GIS.
 
