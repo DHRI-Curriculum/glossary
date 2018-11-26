@@ -10,7 +10,7 @@ An *attribute* is a characteristic of a feature (see below). Attributes can cont
 
 *Georeferencing*: the process of using geographic data to represent features on a GIS.
 
-*Layers* organizes the data in QGIS. They can be imagined as transparent film sheets with different types of features drawn over them: 
+*Layers* are "containers" of the data in QGIS. On the map view, layers can be imagined as transparent film sheets that are laid one over another. With the exception of raster layers, each layer contains an Attribute Table, that is, a series of features that in turn have their own attributes. Vector layers can only contain one type of vectors, be it: points, lines or polygons.
 
 *Raster*: images or maps with a specific resolution that determine how accurate the information is (as well as the file size). They are commonly used for continuous data, such as temperature and elevation.
 
