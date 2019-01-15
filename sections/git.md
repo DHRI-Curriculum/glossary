@@ -8,7 +8,7 @@
 
 *fork* - A copy of a repository.  
 
-*forking* - Forking allows you to freely make changes to a copy of a repository without affecting the original repository. You can however, propose changes (through a *pull requeset*) to incorporate into that original repository.  
+*forking* - Forking allows you to freely make changes to a copy of a repository without affecting the original repository. You can however, propose changes (through a *pull request*) to incorporate into that original repository.  
 
 *git* - Git is a version control tool. It lives on your local computer and can be accessed through the command line.  
 
