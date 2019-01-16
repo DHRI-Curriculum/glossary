@@ -20,7 +20,7 @@
 
 `touch <filename>` - Create an empty text file named <filename> in your current directory.
 
-'code <filename>' - if have text editor (such as VS Code) this will open .text file in text editor 
+`code <filename>` - Open file in VS Code (and create it, if it does not already exist).
 
 `mkdir <folder name>` - Create a directory named `<folder name>` in the current working directory.
 
