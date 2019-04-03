@@ -150,3 +150,15 @@ To use a function from the random library, we use a special dot (`.`) syntax:
 random_number = random.randint(0, 100)
 print("My random number is", random_number)
 ```
+
+## Libraries Encountered in the DHRI Curriculum
+
+### Pandas
+
+**`pandas`** is a package that can be used with Python to create navigable table structures called DataFrames, similar to Excel spreadsheets or databases.
+
+A **DataFrame** is the highest structure of data in Pandas. DataFrames contain columns and rows, at which intersection's you will find your data points.
+
+### NLTK
+
+*See [glossary for text analysis](text-analysis.md)*
