@@ -5,7 +5,7 @@
 
 `pwd` - show the current (or "working") directory. Stands for "print working directory"
 
-`man [command]` — show manual for the command you are interested in learning more about; it will show all the flags the command will take as well
+`man <command>` — show manual for the command you are interested in learning more about; it will show all the flags the command will take as well
 
 `ls` - show the files and folders in the working directory. I think of it as standing for "list stuff," but it's probably just short for "list."
 
