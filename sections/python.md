@@ -6,7 +6,7 @@ These Python-related commands can be entered in bash. (That's the prompt with th
 
 `python --version` - Prints out version information for Python, and will tell you if you're using Anaconda or the default Python. Useful for figuring out if Python has successfully installed on your computer, and whether it's accessible from the command line.
 
-`python` - Typing Python by itself brings up the Python interpreter, also known as the Python shell or the Python REPL. Lines you type after this will be sent directly to Python and evaluated. Any result will be printed back to you. A standard interaction might look like this:
+`python` - Typing Python by itself brings up the Python interpreter, also known as the Python shell or the Python REPL (which stands for "read–eval–print loop"). Lines you type after this will be sent directly to Python and evaluated. Any result will be printed back to you. A standard interaction might look like this:
 
 ```
 Python 3.6.4 (default, Jan 15 2018, 23:11:13) 
