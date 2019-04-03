@@ -5,11 +5,14 @@
 
 `pwd` - show the current (or "working") directory. Stands for "print working directory"
 
+`man [command]` — show manual for the command you are interested in learning more about; it will show all the flags the command will take as well
+
 `ls` - show the files and folders in the working directory. I think of it as standing for "list stuff," but it's probably just short for "list."
 
 - `ls -1` - show the files and folders in a nice vertical column.
-- `ls -a` — show all the files in a directory (including hidden files)
-- `ls -al` — the two commands above can be combined like this, to both (a) include all files, and (b) show the list in a nice vertical column.
+— `ls -l` — show a detailed list of all the files and folders
+- `ls -a` — show all the files (including hidden files)
+- `ls -al`, `ls -a1` — the two commands above can be combined like this, to both (a) include all files, and (b) show the list in a nice vertical column.
 
 `cd` - move to a directory, i.e. `cd Desktop` will move to the "Desktop" folder. Some special cases:
 
