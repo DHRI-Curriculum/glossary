@@ -9,8 +9,8 @@
 
 `ls` - show the files and folders in the working directory. I think of it as standing for "list stuff," but it's probably just short for "list."
 
-- `ls -1` - show the files and folders in a nice vertical column.
-— `ls -l` — show a detailed list of all the files and folders
+- `ls -1` — show the files and folders in a nice vertical column.
+- `ls -l` — show a detailed list of all the files and folders
 - `ls -a` — show all the files (including hidden files)
 - `ls -al`, `ls -a1` — the two commands above can be combined like this, to both (a) include all files, and (b) show the list in a nice vertical column.
 
