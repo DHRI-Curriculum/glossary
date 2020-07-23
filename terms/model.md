@@ -6,6 +6,10 @@ Explanation in markdown, which may contain [links](#) and formatting (_italics_ 
 
 - [optional bulletpoint list of readings that can help understand the term]
 
+## Tutorials
+
+- [optional bulletpoint list of tutorials that can help understand the term]
+
 ## Workshops
 
 - [optional bulletpoint list of one or more elements, defining which workshops may contain the term above]
