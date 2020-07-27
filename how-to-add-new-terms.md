@@ -1,7 +1,5 @@
 # How to add terms to this repository
 
-![](https://img.shields.io/badge/-status:wip-5319e7.svg)
-
 In this tutorial, we will use VS Code but if you prefer, you can use any other editor or even command line tools.
 
 ## 1. Clone the repository.
