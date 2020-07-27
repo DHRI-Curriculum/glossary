@@ -20,4 +20,6 @@ In this tutorial, we will use VS Code but if you prefer, you can use any other e
    
    - (Optional) Add a section `## Tutorials` where you add a bulletpoint for each _tutorial_ you think is valuable to grasp the term that you want to add to the glossary.
    
+   - (If you want a model file to look at, [here is one available](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/model.md).)
+   
 4. Add a pull request to the `v2.0` branch.
