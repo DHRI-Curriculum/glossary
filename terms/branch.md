@@ -9,7 +9,3 @@ Branches are not used in the Git session in this curriculum, but are a frequentl
 ## Tutorials
 
 - ["Git Branching - Basic Branching and Merging"](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging), _git-scm.com_
-
-## Workshops
-
-- git
