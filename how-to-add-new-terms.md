@@ -6,7 +6,32 @@ In this tutorial, we will use VS Code but if you prefer, you can use any other e
 
 1. Clone the repository.
 
+   - Bring up the Command Palette (<kbd>command</kbd> <kbd>shift</kbd> <kbd>P</kbd>)
+   
+   - Type `git clone`
+   
+   - When asked to provide repository URL, paste `https://github.com/DHRI-Curriculum/glossary/` into the box.
+   
+   - VS Code will ask you where to save your local clone of the repository. Choose wherever you would like to have it.
+   
+   - When asked "Would you like to open the cloned repository?", press "Open in New Window" (to ensure no conflict with any other windows you may have open).
+
 2. Create your own branch.
+   
+   - Click the branch name that you are currently on (likely "master") in the lower-left corner
+      ![](../images/choose-branch.png)
+
+   - Select "Create new branch from..."
+      ![](../images/create-new-branch-from.png)
+   
+   - Provide a branch name for your new branch (something like `<your-username>-suggested-terms`) followed by <kbd>enter</kbd>
+      ![](../images/new-branch-name.png)
+   
+   - When asked to "Select a ref to create" your branch, select `origin/v2.0`
+      ![](../images/select-a-ref.png)
+   
+   - You should now be on your own branch of this repository. You can verify that you're on the correct branch by checking your lower-left corner that should have your branch name instead of the formerly active branch.
+      ![](../images/your-branch-is-active.png)
 
 3. Add whichever term(s) you think should be added to the `terms` folder:
 
