@@ -1,6 +1,6 @@
 # Open Data Formats
 
-Open data formats are file formats that are available to anyone, free of charge, which allows for accessibility, future-proofing, and preservation. These file formats also allow for easy reusability and aids research reproduction and accountability. They are not limited by intellectual property rights or copyrights. This is distinct from proprietary formats. Some examples of open data formats are .csv, .pdf, and .json.
+Open data formats are file formats that are available to anyone, free of charge, which allows for accessibility, future-proofing, and preservation. These file formats also allow for easy reusability and aids research reproduction and accountability. They are not limited by intellectual property rights or copyrights. This is distinct from proprietary formats. Some examples of open data formats are `.csv`, `.pdf`, and `.json`.
 
 ## Readings
 
