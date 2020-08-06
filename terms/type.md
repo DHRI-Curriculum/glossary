@@ -1,0 +1,1 @@
+*type()* - Return a value that represents the type of whatever is in the parentheses.
