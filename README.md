@@ -25,7 +25,7 @@ This glossary contains definitions and explanations of core concepts introduced 
       * [Pusing](push.md)
       * [Cloning](cloning.md)
       * [Forking](forking.md)
-      * [Branching & Merging][branch.md]
+      * [Branching & Merging](branch.md)
    * [Jekyll](sections/jekyll.md)
       * [Glossary](sections/jekyll.md)
    * [Python](sections/python.md#python)
