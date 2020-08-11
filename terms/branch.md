@@ -1,6 +1,6 @@
 # branch
 
-Branches are not used in the Git session in this curriculum, but are a frequently used feature of Git. A branch is an alternative timeline of commits, usually used to add a new feature or some other substantive change to a repository. Once the feature or change is complete, the branch can be reintegrated with the main timeline, which is usually called "master."
+Branches are not used in the Git session in this curriculum, but are a frequently used feature of Git. A branch is an alternative timeline of commits, usually used to add a new feature or some other substantive change to a repository. Once the feature or change is complete, the branch can be reintegrated with the main timeline, which is usually called "master." The process of reintegration is referred to as "merging".
 
 ## Readings
 
