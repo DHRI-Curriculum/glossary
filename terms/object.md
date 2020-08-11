@@ -1,8 +1,8 @@
 # Objects
 
-Even though you probably don't know it, you've been using objects all along with Python. Almost everything in Python is made out of objects, or data that represents values. For example, the sting `"hello"` is an object. So is the variable `greeting` that stores `hello`. Integers, floats, and lists are also objects. 
+Even though you probably don't know it, you've been using objects in Python all along. Nearly everything in Python is made out of objects, which are representations of values. For example, the sting `"hello"` is an object. So is the variable `greeting` that stores `"hello"`. Integers, floats, and lists are also objects. 
 
-To help you do more complex things with objects, you can learn *object-oriented-programming*, which is an approach toward programming that uses objects as a basic building block. This approach deploys what we call *classes* to define and create new objects. This is definitely intermediate stuff, so make sure you have a grasp on basic concepts like data types, variables, loops, and conditionals before moving onto object oriented programming. 
+To help you do more complex things with objects, you can learn *object-oriented-programming*, which is an approach toward programming that centralizes objects. This approach deploys what we call *classes* to define and create new objects, as well as *inheritance* to build new objects from old ones. This is definitely intermediate stuff, so make sure you have a grasp on basic concepts like data types, variables, loops, and conditionals before moving onto object-oriented-programming. 
 
 # Readings
 

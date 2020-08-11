@@ -1,6 +1,8 @@
 # Modules
 
-A module is a python file (like a script) that contains a number of functions and expressions that you want to include in your program. Programmers often import modules written by other programmers like building blocks in their applications. In order to use modules, you need to add them to your script with `import` and then indicate which function you want to use with the dot syntax `.`. For example, we might use the function `choice` from the [`random`](https://docs.python.org/3/library/random.html) module, to generate random numbers. 
+A module is a python file (like a script) that contains a number of functions and expressions that you want to include in your program. Programmers often import modules written by other programmers and use them like building blocks for their applications. 
+
+In order to use modules, you need to add them to your script with `import` and then indicate which function you want to use with the dot syntax `.`. For example, we might use the function `choice` from the [`random`](https://docs.python.org/3/library/random.html) module, to generate random numbers. 
 
 ```pycon
 >>> import random

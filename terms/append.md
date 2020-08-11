@@ -1,6 +1,6 @@
 # append
 
-The `append()` method adds an element to the end of a list. 
+`append()` is a method that adds an element to the end of a list. 
 
 # Readings
 
