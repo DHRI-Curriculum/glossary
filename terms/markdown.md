@@ -2,11 +2,15 @@
 
 Markdown is the language used to format the plain text files in your Git-enabled repository. Its also called a markup language, like HTML. Both languages add markers to plain text to style and organize the text of a document.
 
-```
-In HTML: 
+In HTML:
+
+```html 
 <h1> Heading 1 </h1>
+```
 
 In Markdown:
+
+```md
 # Heading 1
 ```
 
