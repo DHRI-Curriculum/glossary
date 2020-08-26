@@ -4,4 +4,4 @@ The `dir()` method returns a list of possible methods and attributes of an objec
 
 # Tutorials
 
-Learn how to use [dir()](https://www.w3schools.com/python/ref_func_dir.asp) on w3schools.
+- Learn how to use [dir()](https://www.w3schools.com/python/ref_func_dir.asp) on w3schools.
