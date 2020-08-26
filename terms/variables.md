@@ -4,7 +4,7 @@ A variable is a name that is assigned to a value, and it stores data for future 
 
 Assignment looks like this:
 
-```pycon
+```python
 x = 3
 name = "Patrick"
 name2 = "Ignatz"
@@ -13,4 +13,4 @@ grocery_list = ["tomato", "limes", "chocolate"]
 
 # Tutorials
 
-Learn more about [variables](https://www.w3schools.com/python/python_variables.asp) on w3schools.
+- Learn more about [variables](https://www.w3schools.com/python/python_variables.asp) on w3schools.
