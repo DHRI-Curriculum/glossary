@@ -13,8 +13,8 @@ Enter your name here: Filipa
 
 # Readings
 
-Detailed article on [`input()`](https://stackabuse.com/getting-user-input-in-python/) from Stack Abuse.
+- Detailed article on [`input()`](https://stackabuse.com/getting-user-input-in-python/) from Stack Abuse.
 
 # Tutorials
 
-Check out the [`input()`](https://www.w3schools.com/python/ref_func_input.asp) tutorial on w3schools. 
+- Check out the [`input()`](https://www.w3schools.com/python/ref_func_input.asp) tutorial on w3schools. 
