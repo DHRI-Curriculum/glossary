@@ -1,4 +1,4 @@
-# Syntax Errors
+# Traceback Errors
 
 Along with syntax errors, traceback errors are a common type of error in Python code. It appears during the execution of the code, when Python is unable to continue, meaning that there is a problem with the flow of your program. Often, traceback errors point to undefined variables or functions.
 
