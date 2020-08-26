@@ -4,4 +4,4 @@
 
 # Tutorials
 
-Check out these examples for using [`sort()`](https://www.w3schools.com/python/ref_list_sort.asp) from w3schools.
+- Check out these examples for using [`sort()`](https://www.w3schools.com/python/ref_list_sort.asp) from w3schools.
