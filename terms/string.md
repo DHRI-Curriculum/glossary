@@ -10,4 +10,4 @@ For example, the following are all strings:
 
 # Readings
 
-Read more about [strings](https://www.w3schools.com/python/python_strings.asp) on w3schools.
+- Read more about [strings](https://www.w3schools.com/python/python_strings.asp) on w3schools.
