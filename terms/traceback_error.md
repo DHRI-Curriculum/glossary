@@ -6,6 +6,6 @@ When a traceback error occurs, the interpreter will give you a little more infor
 
 # Readings
 
-See a fuller description of [traceback errors](https://realpython.com/python-traceback/) on Real Python. 
+- See a fuller description of [traceback errors](https://realpython.com/python-traceback/) on Real Python. 
 
-To see [a comprehensive list of possible errors](https://www.tutorialsteacher.com/python/error-types-in-python), check out this resource on Tutorials Teacher.
+- To see [a comprehensive list of possible errors](https://www.tutorialsteacher.com/python/error-types-in-python), check out this resource on Tutorials Teacher.
