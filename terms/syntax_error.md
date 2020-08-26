@@ -6,6 +6,6 @@ When a syntax error occurs, the interpreter will display a caret pointing to the
 
 # Readings
 
-See a fuller description of [syntax errors](https://geek-university.com/python/syntax-and-logical-errors/) on Geek University. 
+- See a fuller description of [syntax errors](https://geek-university.com/python/syntax-and-logical-errors/) on Geek University. 
 
-To see [a comprehensive list of possible errors](https://www.tutorialsteacher.com/python/error-types-in-python), check out this resource on Tutorials Teacher.
+- To see [a comprehensive list of possible errors](https://www.tutorialsteacher.com/python/error-types-in-python), check out this resource on Tutorials Teacher.
