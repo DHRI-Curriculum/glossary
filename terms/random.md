@@ -4,8 +4,8 @@ The random module or random library allows one to generate random output. The mo
 
 # Readings
 
-For a thorough description of the [random module](https://docs.python.org/3/library/random.html), check out the official documentation.
+- For a thorough description of the [random module](https://docs.python.org/3/library/random.html), check out the official documentation.
 
 # Tutorials
 
-For step-by-step demonstration of [how to use random](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python), check out this tutorial from Python For Beginners. 
+- For step-by-step demonstration of [how to use random](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python), check out this tutorial from Python For Beginners. 
