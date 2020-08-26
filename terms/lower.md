@@ -4,8 +4,8 @@
 
 # Readings
 
-Read about `lower()` and related methods like `upper()`, `isupper()` and `islower()` on [Geeks for Geeks](https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/).
+- Read about `lower()` and related methods like `upper()`, `isupper()` and `islower()` on [Geeks for Geeks](https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/).
 
 # Tutorials
 
-See how to use [`.lower()`](https://www.w3schools.com/python/ref_string_lower.asp) on w3schools.
+- See how to use [`.lower()`](https://www.w3schools.com/python/ref_string_lower.asp) on w3schools.
