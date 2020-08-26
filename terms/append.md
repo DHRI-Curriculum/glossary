@@ -4,4 +4,4 @@
 
 # Readings
 
-Read more about [append()]((https://www.w3schools.com/python/ref_list_append.asp) at w3schools.
+Read more about [append()](https://www.w3schools.com/python/ref_list_append.asp) at w3schools.
