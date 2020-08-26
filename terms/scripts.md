@@ -4,4 +4,4 @@ A Python script is a file that contains Python code. The filename needs to have 
 
 # Tutorials
 
-Check out [how to run a Python script])(https://www.geeksforgeeks.org/how-to-run-a-python-script/) on Geeks for Geeks.
+- Check out [how to run a Python script](https://www.geeksforgeeks.org/how-to-run-a-python-script/) on Geeks for Geeks.
