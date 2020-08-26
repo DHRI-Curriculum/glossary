@@ -18,9 +18,8 @@ The first code block defines the function `multiply()` which takes `a` & `b` as 
 
 # Readings
 
-More in-depth exploration of [functions](https://www.programiz.com/python-programming/function) on Programiz.
-
+- More in-depth exploration of [functions](https://www.programiz.com/python-programming/function) on Programiz.
 
 # Tutorials
 
-Simple walk-through of [functions](https://www.w3schools.com/python/python_functions.asp) on w3schools.
+- Simple walk-through of [functions](https://www.w3schools.com/python/python_functions.asp) on w3schools.
