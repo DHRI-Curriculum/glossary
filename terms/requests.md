@@ -11,8 +11,8 @@ x = requests.get('<websiteURL>')
 
 # Readings
 
-Read the [official docs](https://requests.readthedocs.io/en/master/) for the requests module.
+- Read the [official docs](https://requests.readthedocs.io/en/master/) for the requests module.
 
 # Tutorials
 
-Follow the [quickstart tutorial](https://requests.readthedocs.io/en/master/user/quickstart/) on the official docs.
+- Follow the [quickstart tutorial](https://requests.readthedocs.io/en/master/user/quickstart/) on the official docs.
