@@ -6,4 +6,4 @@ For example, running `print("Hello World!")` will output the string `'Hello Worl
 
 # Tutorials
 
-See the possibilities with [`print()`](https://www.w3schools.com/python/ref_func_print.asp) on w3schools.
+- See the possibilities with [`print()`](https://www.w3schools.com/python/ref_func_print.asp) on w3schools.
