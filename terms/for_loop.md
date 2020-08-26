@@ -4,4 +4,4 @@ A for-loop is a way of going through an entire sequence of items, like a list. A
 
 # Tutorials
 
-Check out the [for-loop](https://www.w3schools.com/python/python_for_loops.asp) description on w3schools.
+- Check out the [for-loop](https://www.w3schools.com/python/python_for_loops.asp) description on w3schools.
