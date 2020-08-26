@@ -10,9 +10,8 @@
 
 # Readings
 
-Read more about [`len()`](https://www.programiz.com/python-programming/methods/built-in/len) and more things it can calculate.
+- Read more about [`len()`](https://www.programiz.com/python-programming/methods/built-in/len) and more things it can calculate.
 
 # Tutorials
 
-Check out [`len()`](https://www.w3schools.com/python/ref_func_len.asp) on w3schools.
-
+- Check out [`len()`](https://www.w3schools.com/python/ref_func_len.asp) on w3schools.
