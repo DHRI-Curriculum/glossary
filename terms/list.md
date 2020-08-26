@@ -4,4 +4,4 @@ A list is a data type, like string, integer, float, and Boolean. A list holds it
 
 # Tutorials
 
-Read more about how to use [lists](https://www.programiz.com/python-programming/list) on Programiz. 
+- Read more about how to use [lists](https://www.programiz.com/python-programming/list) on Programiz. 
