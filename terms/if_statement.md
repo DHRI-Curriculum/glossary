@@ -12,13 +12,12 @@ elif weather == "rainy":
 	print("Bring your umbrella")
 else:
     print("I don't know what you should bring! I'm just a little program...")
-```	
+```
 
 # Readings
 
-More detailed explanation of [if-statements and conditionals](https://realpython.com/python-conditional-statements/) on Real Python.
+- More detailed explanation of [if-statements and conditionals](https://realpython.com/python-conditional-statements/) on Real Python.
 
 # Tutorials
 
-Quick explanation of [if-statements](https://www.w3schools.com/python/python_conditions.asp) from w3schools.
-
+- Quick explanation of [if-statements](https://www.w3schools.com/python/python_conditions.asp) from w3schools.
