@@ -23,8 +23,8 @@ In order to use modules, you need to add them to your script with `import` and t
 
 # Readings
 
-An in depth explanation of [modules](https://docs.python.org/3/tutorial/modules.html) from the Python docs. 
+- An in depth explanation of [modules](https://docs.python.org/3/tutorial/modules.html) from the Python docs. 
 
 # Tutorials
 
-A step-by-step tutorial on w3schools that demonstrates [how modules are composed](https://www.w3schools.com/python/python_modules.asp). 
+- A step-by-step tutorial on w3schools that demonstrates [how modules are composed](https://www.w3schools.com/python/python_modules.asp). 
