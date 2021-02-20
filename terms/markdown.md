@@ -24,3 +24,8 @@ Whereas you use HTML and CSS with WordPress, you use Markdown with Git and GitHu
 ## Tutorials
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). GitHub Guides.
+
+## Cheat Sheet
+
+- Adam Pritchard's [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great resource if you need a quick overview of what features are available in Markdown.
+- The Markdown Guide, a free and open-source reference guide to Markdown, features a [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet) on their website.
