@@ -14,3 +14,7 @@ In this workshop, you'll use Git on your local machines to track changes you mak
 ## Tutorials
 
 - [An intro to Git: What it is and how to use it](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+
+## Cheat sheets
+
+- [Atlassian's Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) is a great resource, handy to have next to your computer as you're learning how to use Git.
