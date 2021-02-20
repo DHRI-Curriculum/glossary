@@ -42,6 +42,8 @@ In this tutorial, we will use VS Code but if you prefer, you can use any other e
 4. (Optional) Add a section `## Readings` where you add a bulletpoint for each _reading_ you think is valuable to grasp the term that you want to add to the glossary.
    
 5. (Optional) Add a section `## Tutorials` where you add a bulletpoint for each _tutorial_ you think is valuable to grasp the term that you want to add to the glossary.
+
+6. (Optional) Add a section `## Cheat sheets` where you add a bulletpoint for each _cheat sheet_ you think is good for the learner to know about to be able to understand the term.
    
 (If you want a model file to look at, [here is one available](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/model.md).)
    
