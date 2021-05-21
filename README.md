@@ -1,6 +1,6 @@
 # Digital Humanities Research Institute Glossary
 
-This glossary contains definitions and explanations of core concepts introduced in the early sections of the Digital Humanities Research Institute.
+This glossary contains definitions and explanations of core concepts introduced in the early sections of the Digital Humanities Research Institute. To see the live glossary, go to https://curriculum.dhinstitutes.org/glossary/
 
 - [Accessibility](terms/accessibility.md)
 - [Anaconda](terms/anaconda.md)

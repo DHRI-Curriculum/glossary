@@ -5,7 +5,7 @@ file_list.sort(key=lambda v: v.name.upper())
 
 README = '# Digital Humanities Research Institute Glossary\n\n'
 
-README += 'This glossary contains definitions and explanations of core concepts introduced in the early sections of the Digital Humanities Research Institute.\n\n'
+README += 'This glossary contains definitions and explanations of core concepts introduced in the early sections of the Digital Humanities Research Institute. To see the live glossary, go to https://curriculum.dhinstitutes.org/glossary/\n\n'
 
 for file in file_list:
     lines = (x for x in file.read_text().splitlines() if x)
