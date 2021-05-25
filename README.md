@@ -6,7 +6,7 @@ This glossary contains definitions and explanations of core concepts introduced 
 - [Anaconda](terms/anaconda.md)
 - [append](terms/append.md)
 - [Attributes](terms/attributes.md)
-- [Attribute Table](terms/attributetable.md)
+- [Attribute Table](terms/attribute-table.md)
 - [Attribute type](terms/attributetype.md)
 - [The Belmont Repor](terms/belmont-report.md)
 - [Beneficence](terms/beneficence.md)
