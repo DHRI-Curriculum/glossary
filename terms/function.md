@@ -9,7 +9,7 @@ Example:
 ```python
 def multiply(a, b):
     result = a * b
-    return 
+    return result
 
 multiply(2, 3)
 ```
